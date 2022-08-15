@@ -7,6 +7,7 @@ The goal is to use the Text Analytics approaches to solve a problem that Human R
 By: Muhammad Asad Baig
 
 Table of Contents
+
 Problem Statement ………...………………………...…………………………………… 1
 
 Text Analytics Approaches …………………………...……………………….2,3
