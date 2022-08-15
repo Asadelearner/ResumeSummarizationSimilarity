@@ -1,10 +1,11 @@
-# ResumeSummarizationSimilarity By: Muhammad Asad Baig
+# ResumeSummarizationSimilarity 
 
 The goal is to use the Text Analytics approaches to solve a problem that Human Resource managers face in their daily life, which is to find the right candidate for their company based on the job description.  Therefore I tried to used TextAnalytics algorithms with python libraries like Spacy, NLTK and Genism to achieve this goal and to see the accuracy of the results.
 
 
 “Resume Summarization and Matching”
-
+ 
+By: Muhammad Asad Baig
 
 Table of Contents
 
